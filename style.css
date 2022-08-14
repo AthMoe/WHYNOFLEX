@@ -1,0 +1,50 @@
+a img{
+    width:45px;
+    height:45px;
+    margin-left:140px;
+    margin-right:300px;
+    margin-top:10px;
+    margin-bottom: 10px;
+    display: inline-block;
+}
+nav
+{
+    background-color:grey ;
+}
+footer
+{
+    background-color:grey ;
+}
+main h1{
+    font-size: 50px;
+}
+.bw img
+{
+    border-radius: 200%;
+    height:270px;
+    width:300px;
+    margin-top: 15px;
+}
+footer p 
+{
+    font-size:50px; 
+}
+.b img 
+{
+height:300px;   
+width: 200px;
+margin-top: 80px;
+margin-left: 25px;
+}
+.b h1
+{
+position: relative;
+left:20%;
+bottom:270px;
+}
+.b{
+    background-color: lightgray;
+}
+table{
+     font-size:50px;
+}
